@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1537630655 source:d:\alpuin schunk\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TP2.h"
+
+1537629151 d:\alpuin schunk\tp2\tp2.h
+
+1537631787 source:d:\alpuin schunk\tp2\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP2.h"
+
